@@ -59,7 +59,7 @@ let resumeData = {
         "Achievements":"Understanding Water Run Off While Keeping A Clean Environment."
       },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Skills here",
     "skills":[
       {
         "skillname":"React.js"
