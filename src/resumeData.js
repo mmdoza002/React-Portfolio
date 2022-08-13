@@ -59,7 +59,7 @@ let resumeData = {
         "Achievements":"Understanding Water Run Off While Keeping A Clean Environment."
       },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Full Stack Development",
     "skills":[
       {
         "skillname":"React.js"
@@ -96,12 +96,16 @@ let resumeData = {
     "testimonials":[
       {
         "description":"Martin is a reliable, creative, and technologically competent team player. He is an amazing teammate  when it comes to working in groups. He is diligent and does not hesitate to help others with their tasks. He has successfully proven to be a helpful contribution to the team in our latest project.",
-        "name":"Some technical guy"
+        "name":"Alieen B."
       },
       {
         "description":"This is a sample testimonial",
-        "name":"Aileen B."
-      }
+        "name":"Jeffery L."
+      },
+      {
+        "description":"This is a sample testimonial",
+        "name":"Chelsea S.."
+      },
     ]
   }
   
