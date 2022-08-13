@@ -95,12 +95,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
+        "description":"Martin is a reliable, creative, and technologically competent team player. He is an amazing teammate  when it comes to working in groups. He is diligent and does not hesitate to help others with their tasks. He has successfully proven to be a helpful contribution to the team in our latest project.",
         "name":"Some technical guy"
       },
       {
         "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "name":"Aileen B."
       }
     ]
   }
