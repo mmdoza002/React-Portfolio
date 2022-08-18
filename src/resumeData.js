@@ -22,7 +22,7 @@ let resumeData = {
     "website":"Mmdoza002@gmail.com",
     "education":[
       {
-        "UniversityName":" UT Comding Bootcamp",
+        "UniversityName":" UT Coding Bootcamp",
         "specialization":"Full Stack Development",
         "MonthOfPassing":"Sep",
         "YearOfPassing":"2022",
@@ -99,11 +99,11 @@ let resumeData = {
         "name":"Alieen B."
       },
       {
-        "description":"This is a sample testimonial",
+        "description":"It’s my pleasure to recommend Martin Mendoza for a Full-Stack/MERN Stack Developer Role.  Martin and I worked together as we went through the UT Coding Program together.  Throughout his time in our course, Martin proved himself to be a hard-working, motivated, ambitious,  and reliable teammate. His honesty, dependability, confidence, and excellent communication skills helped him become a sought after developer for our projects and challenges.  Martin is quick to help out wherever he is needed. Our fellow cohorts also hold Martin in the highest regard, not just because he’s a great person but also because he takes a proactive role in recognizing pain points but actively finding and implementing solutions for them. While Martin’s experience as a developer is limited at the moment, I have no doubt that he will continue to make a positive impact on any team that is fortunate enough to have him.  He’s a talented developer with a desire to learn and grow.  I truly hope that I will have the opportunity and honor to work again with him in the future.",
         "name":"Jeffery L."
       },
       {
-        "description":"This is a sample testimonial",
+        "description":"Martin was a great teammate to work alongside during the development of our web application. He was always present and willing to pull his weight. He worked through problems together with the team and was one of the first to jump in to help. He was encouraging and brought a positive attitude to all meetings. I enjoyed being on a team with him!",
         "name":"Chelsea S.."
       },
     ]
