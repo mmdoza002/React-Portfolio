@@ -22,7 +22,7 @@ let resumeData = {
     "website":"Mmdoza002@gmail.com",
     "education":[
       {
-        "UniversityName":" UT Coding Bootcamp",
+        "sickness":" UT Coding Bootcamp",
         "specialization":"Full Stack Development",
         "MonthOfPassing":"Sep",
         "YearOfPassing":"2022",
