@@ -2,7 +2,7 @@
 
 ## Description
 
-Enetering the world of web development and inroducing my skills. This page has all the information you need to see my work, see my resume, and presents my email and LinkedIn info.
+Entering the world of web development and introducing my skills. This page has all the information you need to see my work, see my resume, and presents my email and LinkedIn info.
 
 ## Programs
 
